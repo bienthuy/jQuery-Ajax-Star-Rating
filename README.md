@@ -5,7 +5,7 @@ With this new star rating plugin you will be able to rate any Media (movies, sto
 
 This is a 100% complete solution with a cookie stored to make sure people only vote once.<br>
 Follow us to update at:  <br>
-
+<img src="https://github.com/bienthuy/jQuery-Ajax-Star-Rating/blob/master/demo.png?raw=true" alt="Demo">
 <br> 
 Find us on Facebook: https://www.facebook.com/bienthuywebsite  <br>
 Find us on Twitter: https://twitter.com/bienthuywebsite  <br>
